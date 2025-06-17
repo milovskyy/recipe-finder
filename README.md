@@ -1,4 +1,4 @@
-Recipe Finder App
+## Recipe Finder App
 
 A simple and elegant recipe search app built with Next.js 15 and the Spoonacular API. Users can search for recipes using various filters and explore full details of each recipe.
 
